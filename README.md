@@ -1,5 +1,5 @@
 # magic
-several custom visualizations for Magic Music Visuals
+several custom visualizations for Magic Music Visuals, [magicmusicvisuals.com](https://magicmusicvisuals.com/)
 
 | project                                                | screenshot                                               | description                                                                                                                                   |
 |--------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
